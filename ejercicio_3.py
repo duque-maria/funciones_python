@@ -25,3 +25,6 @@ for i in range(n):
 # processing
 print("Lista: " , lista)
 print("La suma es: ", sumar_lista_datos(lista))
+
+# output
+print("\nEso era...")

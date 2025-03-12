@@ -5,6 +5,7 @@ print("--------Promedio lista de datos---------")
 print("----------------------------------------")
 
 import random
+
 # Definición de la función
 def promedio_lista_datos(lista):
     suma = 0
@@ -26,3 +27,6 @@ for i in range(n):
 # processing
 print("Lista: " , lista)
 print("El promedio de la lista es: ", promedio_lista_datos(lista))
+
+# output
+print("\nEso era...")
