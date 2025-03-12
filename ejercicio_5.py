@@ -30,3 +30,6 @@ for i in range(n_p):
 # processing
 print("Lista: " , lista)
 print("El promedio de la lista es: ", promedio_lista_pares(lista))
+
+# output
+print("\nEso era...")
